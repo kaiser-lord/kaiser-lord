@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Giovanni 👋
 
-<!--
-**kaiser-lord/kaiser-lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud & Systems Engineer · GCP ACE · Targeting space tech infrastructure**
 
-Here are some ideas to get you started:
+I design and operate cloud infrastructure with a focus on AI integration,  
+monitoring, and reliability. Based in Paraguay, working remotely across  
+LATAM and global remote teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛰️ Passionate about space exploration and Earth observation systems  
+- 🤖 Deployed internal RAG support bots and self-host LLM inference (Ollama)  
+- ☁️ Certified: GCP ACE · AWS Foundational · Cisco IoT Fundamentals  
+- 📡 Currently studying: AWS Solutions Architect Associate  
+- 🔭 Goal: contribute to satellite operations and space systems infrastructure  
+
+---
+
+## 🛠️ Stack
+
+**Cloud:** GCP · AWS  
+**Infra:** Proxmox · Linux · Docker · Netbird VPN  
+**Monitoring:** Grafana · Prometheus · Zabbix  
+**AI/ML:** Ollama · Google AI Studio  
+**Scripting:** Python · Bash  
+
+---
+
+## 🏅 Certifications
+
+- Google Cloud Associate Cloud Engineer  
+- AWS Cloud Practitioner  
+- Cisco IoT Fundamentals  
+- Google AI Studio (Develop AI-Powered Prototypes) 
+- AWS Solutions Architect Associate *(in progress)*  
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/juan-bautista-sartorio-isasi/) · jbsi7@outlook.com
